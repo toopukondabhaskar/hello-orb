@@ -1,7 +1,7 @@
 version: 2.1
 
 description: |
-  A simple "Hello, World!" orb
+  A simple "Hello, World demo!" orb
 
 executors:
   default:
