@@ -1,7 +1,7 @@
 version: 2.1
 
 orbs:
-    hello: circleci/ruby:2.4
+    hello: circleci/hello-build@volatile
 
 workflows:
     "Hello Workflow":
